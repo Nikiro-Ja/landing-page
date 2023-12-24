@@ -165,6 +165,10 @@ q {
     justify-content: center;
     background-color: #3882F6;
     color: white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
 }
 
 .leftaction {
