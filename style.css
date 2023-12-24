@@ -29,5 +29,11 @@ a {
     justify-content: space-between;
 }
 
+.placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* 2 section */
 
