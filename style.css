@@ -145,6 +145,7 @@ button {
     flex-direction: column;
     height: 400px;
     align-items: center;
+    padding: 100px;
 }
 
 .quotesection p {
@@ -156,4 +157,14 @@ q {
     color: #1F2937;
     max-width: 711.500px;
     font-style: italic;
+}
+
+.actionsection {
+    display: flex;
+    justify-content: center;
+}
+
+.leftaction {
+    display: flex;
+    flex-direction: column;
 }
