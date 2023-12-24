@@ -37,5 +37,13 @@ a {
     align-items: center;
 }
 
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
 /* 2 section */
 
