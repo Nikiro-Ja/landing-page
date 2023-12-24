@@ -144,3 +144,7 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+.quotesection p {
+    align-self: flex-end;
+}
