@@ -107,6 +107,9 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 1003.94px;
+    height: 400px;
+    padding: 30px;
 }
 
 .set {
@@ -124,4 +127,14 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+}
+
+.randomhead {
+    margin-bottom: 50px;
+}
+
+.infoblock p {
+    width: 120px;
+    flex-wrap: wrap;
 }
