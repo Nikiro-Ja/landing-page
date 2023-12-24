@@ -31,6 +31,7 @@ a {
     display: flex;
     justify-content: space-between;
     width: 100%;
+    flex: 1;
 }
 
 .placeholder {
@@ -51,6 +52,8 @@ a {
 
 .upper {
     height: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 .lefto {
