@@ -49,6 +49,7 @@ a {
     justify-content: space-between;
     align-items: center;
     height: 100vh;
+    flex: 1;
 }
 
 .upper {
@@ -57,6 +58,7 @@ a {
     flex-direction: column;
     background-color: #1F2937;
     color: white;
+    padding: 30px;
 }
 
 .lefto {
@@ -76,5 +78,4 @@ a {
     font-size: 48px;
     font-weight: bold;
 }
-/* 2 section */
 
