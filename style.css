@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-content: space-between;
     height: 100vh;
+    font-family: roboto, serif;
 }
 
 .header {
@@ -105,9 +106,11 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 1003.94px;
+    width: 100%;
     height: 400px;
     padding: 30px;
+    margin: 50px;
+    margin-top: 10px;
 }
 
 .set {
@@ -118,7 +121,7 @@ button {
 
 .set img {
     border: 2px solid #3882F6;
-    padding: 50px;
+    padding: 70px;
     border-radius: 10px;
 }
 
@@ -131,8 +134,8 @@ button {
 }
 
 .infoblock p {
-    width: 120px;
-    flex-wrap: wrap;
+    width: 140px;
+    text-align: center;
 }
 
 .quotesection {
