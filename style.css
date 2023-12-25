@@ -123,10 +123,7 @@ button {
 }
 
 .infoblock {
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
 }
 
 .randomhead {
@@ -168,7 +165,8 @@ q {
     border-radius: 10px;
 }
 
-.leftaction {
+.leftaction,
+.infoblock {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -179,11 +177,8 @@ q {
     border: 2px solid white;
 }
 
+.thor,
 .call {
-    font-weight: bold;
-}
-
-.thor {
     font-weight: bold;
 }
 
