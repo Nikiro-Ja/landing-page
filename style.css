@@ -144,7 +144,7 @@ button {
 .quotesection {
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 200px;
     align-items: center;
     padding: 100px;
     background-color: #E5E7EB
