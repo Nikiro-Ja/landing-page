@@ -197,7 +197,7 @@ q {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 30px;
+    padding: 10px;
     background-color:#1F2937;
     width: 100%;
     color: white;
@@ -222,4 +222,8 @@ html, body {
     display: flex;
     justify-content: center;
     width: 100%;
+}
+
+.copyright p {
+    flex-shrink: 0;
 }
