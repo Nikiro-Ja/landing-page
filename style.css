@@ -51,6 +51,7 @@ a {
     justify-content: space-between;
     align-items: center;
     height: 100vh;
+    width: 100%;
     flex: 1;
 }
 
@@ -205,4 +206,11 @@ q {
     width: 100%;
     color: white;
     margin: 0;
+}
+
+.backupper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #1F2937;
 }
