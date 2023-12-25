@@ -214,3 +214,8 @@ q {
     width: 100%;
     background-color: #1F2937;
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
