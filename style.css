@@ -162,12 +162,11 @@ q {
 
 .actionsection {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     background-color: #3882F6;
     color: white;
     padding: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
+    width: 600px;
     border-radius: 10px;
 }
 
